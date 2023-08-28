@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.section-1{
+background: url(image/peakpx.jpg);
+padding: 300PX 0;
+text-align: center;
+background-repeat: no-repeat;
+background-position: center;
+
+
+
+
+}
+.section-1 h1{
+    color: rgb(4, 12, 224);
+}
